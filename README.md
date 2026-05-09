@@ -12,4 +12,5 @@
 ## Материалы и источники, на которые я буду опираться и использовать:
 > 1. [Документация про телеграм ботов](https://pytba.readthedocs.io/ru/latest/index.html)
 > 2. [Шаблон телеграм бота от KodLand](https://github.com/GitKodland/LVL2_M1L3_tg)
-> 3. [Google Techable MAchine](https://teachablemachine.withgoogle.com/train)
+> 3. [Google Techable Machine](https://teachablemachine.withgoogle.com/train)
+> 4. [Встроенная ИИ в телеграме](https://github.com/emingenc/telegramGPT)
