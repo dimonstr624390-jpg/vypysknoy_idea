@@ -14,3 +14,7 @@
 > 2. [Шаблон телеграм бота от KodLand](https://github.com/GitKodland/LVL2_M1L3_tg)
 > 3. [Google Techable Machine](https://teachablemachine.withgoogle.com/train)
 > 4. [Встроенная ИИ в телеграме](https://github.com/emingenc/telegramGPT)
+ 
+
+ 
+![](bear-roblox-bear-alpha.gif)
