@@ -1,0 +1,8 @@
+tensorflow==2.16.2
+uvicorn==0.12.2
+fastapi==0.63.0
+pyTelegramBotAPI==4.16.1
+python-telegram-bot==21.10
+tf-keras==2.16.0
+Pillow==11.1.0
+numpy==2.2.2
